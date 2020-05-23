@@ -1,6 +1,6 @@
 # Project Management System Website
 ## Project Detail
-**Course** : INS4010-ADVANCED INFORMATION SYSTEMS DEVELOPMENT
+**Course** : INS4010-Advanced Information Systems Deveplopment
 
 **Class** : MIS2016A
 
