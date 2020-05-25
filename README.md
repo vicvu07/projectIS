@@ -13,8 +13,6 @@
 - PHP
 
 **Documents** :
-1. [Software Requirement Analysis](https://drive.google.com/)
-2. [Sprint planning](https://drive.google.com/)
-3. [QnA File](https://drive.google.com/)
-4. [Software Development Document](https://github.com/)
+1. [Presentation](https://drive.google.com/file/d/1aIxot5n9bklQVercV_teH9OxcazZttvH/view?usp=sharing)
+2. [Report](https://drive.google.com/file/d/1QTFFA9gq--okyhqjip1waqB5fq8Edumu/view?usp=sharing)
 
